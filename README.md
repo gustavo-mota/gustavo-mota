@@ -1,6 +1,8 @@
 ## Oi, sou Gustavo! ✨
 
-- 🖥 Atualmente trabalhando com Visão Computacional
+- 🖥 Graduação em Ciência da Computação pela Universidade Federaldo Ceará UFC
+- 🖥 Mestrado em Processamento de Imagens e Visão Computacional pela Universidade Federaldo Ceará UFC
+- 🖥 Experiência em Ciência de Dados e Aprendizagem de Máquina
 - 🌱 Estudando desenvolvimento web e mobile
 
 <div align="center">
