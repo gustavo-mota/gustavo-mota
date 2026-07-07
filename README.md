@@ -7,12 +7,11 @@
     <li>Graduação em Ciência da Computação pela Universidade Federal do Ceará (UFC)</li>
     <li>
       Mestrado em Processamento de Imagens e Visão Computacional pela Universidade Federal do Ceará (UFC)
-      <!-- O segredo está em colocar o novo details dentro do <li> do mestrado -->
       <details>
         <summary><em>Linha de pesquisa de mestrado</em></summary>
         <ul>
           <li>Proposição do uso de imagens de pistas de pousos e decolagens (PPD) para análise da segurança operacional quanto ao coeficiente de atrito.</li>
-          <li>Pesquisa em parceria com o Departamento de Engenharia de Transportes da UFC. Grupo de pesquisa PETRAN.</li>
+          <li>Pesquisa em parceria com o Departamento de Engenharia de Transportes da UFC. Grupo de pesquisa PETRAN. Professor Dr. Francisco Heber Lacerda de Oliveira.</li>
         </ul>
       </details>
     </li>
